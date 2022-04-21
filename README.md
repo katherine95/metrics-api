@@ -5,9 +5,11 @@ server up and running locally.
 
 * Ruby version - 3.1.1
 
-* Configuration
-
 * Database creation
+- rails db:drop
+- rails db:create
+- rails db:migrate
 
-* Database initialization
+* Start server:-
+- rails s
 
